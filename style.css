@@ -74,8 +74,12 @@ footer {
     background-color: #333;
     color: #fff;
     padding: 10px;
+    
     text-align: center;
 	min-height: 10vh;
+}
+footer p{
+    text-align: center;
 }
 
 footer a {
